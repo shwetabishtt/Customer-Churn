@@ -77,7 +77,3 @@ By addressing these key factors, this analysis offers actionable insights to red
 - **Notebooks**: Jupyter notebooks containing code for data processing, visualization, and analysis.
 - **Results**: Key insights, visualizations, and recommendations generated from the analysis.
 
----
-
-## Acknowledgments
-Special thanks to the team and data sources that supported this analysis.
